@@ -7,7 +7,7 @@ Upon completing the lab, you will have:
 1.  Created a project
 1.  Created an object storage instance and associated it with the project
 1.  Associated an existing Watson Machine Learning service instance with the project
-1.       Added a collaborator to the project
+1.  Added a collaborator to the project
 
 ### Step 1. Please click on the link below to download the instructions to your machine.
 
